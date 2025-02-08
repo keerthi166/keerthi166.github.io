@@ -299,7 +299,7 @@ scholar:
 enable_publication_badges:
   altmetric: false #Keerti: disabled for now # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
   dimensions: false #Keerti: disabled for now # Dimensions badge (Customization options: https://badge.dimensions.ai/)
-  google_scholar: false #Keerti: disabled for now # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
+  google_scholar: true #Keerti: enabled for now # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
   inspirehep: false #Keerti: disabled for now # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
@@ -334,7 +334,7 @@ max_author_limit: 3 # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
-enable_publication_thumbnails: false #Keerti: disabled for now
+enable_publication_thumbnails: true #Keerti: enabled for now
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
