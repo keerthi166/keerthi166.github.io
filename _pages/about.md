@@ -7,14 +7,14 @@ subtitle: Research Scientist,  <a href='https://research.ibm.com'>IBM Research</
 profile:
   align: right
   image: keerti.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true #Keerti: chaned for the look # crops the image to make it circular
   more_info: >
     <p>firstname.lastname@ibm.com</p>
     <p>IBM Research AI</p>
     <p>Denver, CO</p>
 
-selected_papers: false #Keerti: diabled for now # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true #Keerti: enabled to try # includes a list of papers marked as "selected={true}"
+social: false #Keerti: turned off due to bigger fonts, socials added in the nav bar via config yml # includes social icons at the bottom of the page
 
 announcements:
   enabled: false #Keerti: diabled for now # includes a list of news items
