@@ -10,8 +10,7 @@ profile:
   image_circular: true #Keerti: chaned for the look # crops the image to make it circular
   more_info: >
     <p>firstname.lastname@ibm.com</p>
-    <p>IBM Research AI</p>
-    <p>Denver, CO</p>
+    <p>IBM Research AI - Denver, CO</p>
 
 selected_papers: true #Keerti: enabled to try # includes a list of papers marked as "selected={true}"
 social: false #Keerti: turned off due to bigger fonts, socials added in the nav bar via config yml # includes social icons at the bottom of the page
@@ -39,4 +38,4 @@ I am a Research Scientist at IBM Research AI specializing in Artificial Intellig
 
 My current research includes [trustworthy foundational models](https://research.ibm.com/topics/trustworthy-ai) with an emphasis on [mitigating risks](https://www.ibm.com/granite/docs/models/guardian/) in Large Language Models (LLM) , [Neuro-symbolic AI](https://ibm.github.io/neuro-symbolic-ai/) based on [Thinking Fast and Slow](https://sites.google.com/view/sofai/home), and [reasoning](https://research.ibm.com/topics/knowledge-and-reasoning)/[planning](https://sites.google.com/view/llmsxplanning-lab/home) in LLMs to advance their reliability and interpretability. 
 
-I collaborate with my academic friends frequently. I also serve as a principal investigator or co-principal investigator of several ongoing projects with universities.
+I collaborate with my academic friends frequently. I also serve as a principal investigator or co-principal investigator of several ongoing projects with universities. If you would like to collaborate, please reach out to me via email.

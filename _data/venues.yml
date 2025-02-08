@@ -7,3 +7,15 @@
 
 "Vision":
   color: "#009f36"
+
+"AAAI":
+  url: https://aaai.org
+
+"ICLR":
+  url: https://iclr.cc  
+
+"ICML":
+  url: https://icml.cc
+
+"ACL":
+  url: https://www.aclweb.org
