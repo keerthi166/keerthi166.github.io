@@ -162,6 +162,10 @@ Since this template have a lot of content, you may want to remove some of it. Th
 excludes:
   - _news/announcement_*.md
   - _pages/blog.md
+  - _pages/cv.md
+  - _pages/projects.md
+  - _pages/repositories.md
+  - _pages/teaching.md
   - _posts/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
