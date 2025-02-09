@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: Research Scientist,  <a href='https://research.ibm.com'>IBM Research</a>. 
+subtitle: <strong><em>Research Scientist</em></strong>,  <a href='https://research.ibm.com'>IBM Research</a>. 
 
 profile:
   align: right
@@ -34,8 +34,8 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi, welcome to my personal webpage. 
 
-I am a Research Scientist at IBM Research AI specializing in Artificial Intelligence (AI), Machine Learning, and Natural Language Understanding. My research focuses on building reliable models and agents capable of adapting to changes and uncertainties in real-time scenarios. I got my Ph.D. in [Language Technologies](https://lti.cs.cmu.edu) and [Machine Learning](https://www.ml.cmu.edu) from [School of Computer Science](https://www.cs.cmu.edu), Carnegie Mellon University, Pittsburgh, USA, 2018. 
+I am a Research Scientist at IBM Research AI specializing in Artificial Intelligence (AI), Machine Learning, and Natural Language Understanding. My research focuses on building reliable models and agents capable of adapting to changes and uncertainties in real-time scenarios. I got my Ph.D. in [Language Technologies](https://lti.cs.cmu.edu) and [Machine Learning](https://www.ml.cmu.edu) from [School of Computer Science](https://www.cs.cmu.edu), Carnegie Mellon University, Pittsburgh, USA, in 2018. 
 
 My current research includes [trustworthy foundational models](https://research.ibm.com/topics/trustworthy-ai) with an emphasis on [mitigating risks](https://www.ibm.com/granite/docs/models/guardian/) in Large Language Models (LLM) , [Neuro-symbolic AI](https://ibm.github.io/neuro-symbolic-ai/) based on [Thinking Fast and Slow](https://sites.google.com/view/sofai/home), and [reasoning](https://research.ibm.com/topics/knowledge-and-reasoning)/[planning](https://sites.google.com/view/llmsxplanning-lab/home) in LLMs to advance their reliability and interpretability. 
 
-I collaborate with my academic friends frequently. I also serve as a principal investigator or co-principal investigator of several ongoing projects with universities. If you would like to collaborate, please reach out to me via email.
+I collaborate with my academic friends frequently. I also serve as a principal investigator or co-principal investigator for several ongoing projects with universities. If you would like to collaborate, please reach out to me via email.
