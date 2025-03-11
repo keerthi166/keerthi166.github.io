@@ -19,3 +19,21 @@
 
 "ACL":
   url: https://www.aclweb.org
+
+"NAACL":
+  url: https://naacl.org
+
+"NeurIPS":
+  url: https://neurips.cc
+
+"IJCAI":
+  url: https://www.ijcai.org
+
+"KDD":
+  url: https://www.kdd.org
+
+"ARXIV":
+  url: https://arxiv.org
+
+"PATENT":
+  url: https://www.uspto.gov
