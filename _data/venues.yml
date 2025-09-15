@@ -40,3 +40,9 @@
 
 "EMNLP":
   url: https://sigdat.org
+
+"COLM":
+  url: https://colmweb.org/
+
+"TMLR":
+  url: https://jmlr.org/tmlr/
