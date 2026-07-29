@@ -11,3 +11,4 @@ _sass/font-awesome/*.scss
 _sass/tabler-icons/*.scss
 _scripts/search.liquid.js
 _pages/students.md
+_pages/about.md
