@@ -273,7 +273,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Murugesan]
-  first_name: [Keerthiram]
+  first_name: [Keerthiram, K.]
 
   style: apa
   locale: en
