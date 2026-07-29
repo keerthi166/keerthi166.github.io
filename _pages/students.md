@@ -6,6 +6,7 @@ description: List of students I mentored in the past
 nav: true
 nav_order: 3
 ---
+
 <h2 class="bibliography">2026</h2>
 
 Zhexi Lu (Ph.D. Student - RPI)
