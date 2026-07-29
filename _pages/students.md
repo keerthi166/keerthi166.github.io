@@ -9,66 +9,66 @@ nav_order: 3
 
 <h2 class="bibliography">2026</h2>
 
-Zhexi Lu (Ph.D. Student - RPI)
+[Zhexi Lu](https://www.linkedin.com/in/zhexilu) (Ph.D. Student - RPI)
 
-Huzaifa Arif (Ph.D. Student - RPI)
+[Huzaifa Arif](https://www.linkedin.com/in/huzaifaarifrpi) (Ph.D. Student - RPI)
 
-Yuxuan Zhu (Ph.D. Student - RPI)
+[Yuxuan Zhu](https://zzbright1998.github.io/) (Ph.D. Student - RPI)
 
-David H Yang (Ph.D. Student - RPI)
+[David H Yang](https://davidhy514.github.io/) (Ph.D. Student - RPI)
 
-Mariana Fernandez-Espinosa (Ph.D. Student - University of Notre Dame)
+[Mariana Fernandez-Espinosa](https://hci.nd.edu/people/graduate-students/mariana-consuelo-fernandez-espinosa/) (Ph.D. Student - University of Notre Dame)
 
-Taicheng Guo (Ph.D. Student - University of Notre Dame)
+[Taicheng Guo](https://taichengguo.github.io/) (Ph.D. Student - University of Notre Dame)
 
-Yujun Zhou (Ph.D. Student - University of Notre Dame)
+[Yujun Zhou](https://www.linkedin.com/in/yujun-zhou-zyj) (Ph.D. Student - University of Notre Dame)
 
 <h2 class="bibliography">2025 and before</h2>
 
 Yiyang Li (Ph.D. Student - University of Notre Dame)
 
-Danielle Villa (Ph.D. Student - RPI)
+[Danielle Villa](https://www.linkedin.com/in/danielle-villa-895b2a175) (Ph.D. Student - RPI)
 
-Vedant Khandelwal (Ph.D. Student - University of South Carolina)
+[Vedant Khandelwal](https://www.linkedin.com/in/khvedant) (Ph.D. Student - University of South Carolina)
 
-Ivoline C Ngong (Ph.D. Student - University of Vermont)
+[Ivoline C Ngong](https://ivolinengong.com/) (Ph.D. Student - University of Vermont)
 
-Zheyuan Zhang (Ph.D. Student - University of Notre Dame)
+[Zheyuan Zhang](https://www.linkedin.com/in/jasonzhangzy1757) (Ph.D. Student - University of Notre Dame)
 
-Vishal Pallagani (Ph.D. Student - University of South Carolina, IBM Intern Summer 2023)
+[Vishal Pallagani](https://www.linkedin.com/in/vishalpallagani) (Ph.D. Student - University of South Carolina, IBM Intern Summer 2023)
 
-Arpan Mukherjee (Ph.D. Student - RPI, IBM Extern Summer 2025)
+[Arpan Mukherjee](https://www.linkedin.com/in/arpan-mukherjee-75b287b6) (Ph.D. Student - RPI, IBM Extern Summer 2025)
 
-Deng Pan (Ph.D. Student - University of Notre Dame)
+[Deng Pan](https://www.linkedin.com/in/deng-pan-b976b8137) (Ph.D. Student - University of Notre Dame)
 
-Nafis Neehal (Ph.D. Student - RPI)
+[Nafis Neehal](https://nafis-neehal.github.io/) (Ph.D. Student - RPI)
 
-Raj Sanjay Shah (Ph.D. Student - Stanford University)
+[Raj Sanjay Shah](https://www.linkedin.com/in/raj-sanjay-shah) (Ph.D. Student - Stanford University)
 
-Mauricio Gruppi (Ph.D. Student - RPI)
+[Mauricio Gruppi](https://mgruppi.me/) (Ph.D. Student - RPI)
 
-Heshan Devaka Fernando (Ph.D. Student - RPI, IBM Extern Summer 2024)
+[Heshan Devaka Fernando](https://heshandevaka.github.io/) (Ph.D. Student - RPI, IBM Extern Summer 2024)
 
-Shuai Zhang (Ph.D. Student - RPI)
+[Shuai Zhang](https://inchs708.github.io/shuaizhang.github.io/index.html) (Ph.D. Student - RPI)
 
-Shivam Ratnakar (M.S. Student - University of South California)
+[Shivam Ratnakar](https://www.linkedin.com/in/shivam-ratnakar-342b03144) (M.S. Student - University of South California)
 
-Shreyas Basavatia (B.S. Student - Georgia Tech)
+[Shreyas Basavatia](https://www.linkedin.com/in/shreyas-basavatia-936387203) (B.S. Student - Georgia Tech)
 
-Kinjal Basu (Ph.D. Student - University of Texas, Dallas)
+[Kinjal Basu](https://www.linkedin.com/in/kinjal-basu) (Ph.D. Student - University of Texas, Dallas)
 
-FNU Mohbat (Ph.D. Student - RPI)
+[FNU Mohbat](https://www.linkedin.com/in/fnumohbat) (Ph.D. Student - RPI)
 
-Matthew Pisano (Ph.D. Student - RPI, IBM Extern Summer 2023)
+[Matthew Pisano](https://matthewpisano.com/about) (Ph.D. Student - RPI, IBM Extern Summer 2023)
 
-Shehzaad Dhuliawala (Ph.D. Student - ETH Zurich)
+[Shehzaad Dhuliawala](https://www.linkedin.com/in/shehzaadzd) (Ph.D. Student - ETH Zurich)
 
-Saüc Abadal Lloret (Ph.D. Student - ETH Zurich)
+[Saüc Abadal Lloret](https://www.linkedin.com/in/sauc-abadal-lloret) (Ph.D. Student - ETH Zurich)
 
-Hitesh Golchha (M.S. Student - University of Massachusetts Amherst)
+[Hitesh Golchha](https://www.linkedin.com/in/hgol) (M.S. Student - University of Massachusetts Amherst)
 
-Dhruvesh Patel (Ph.D. Student - University of Massachusetts Amherst)
+[Dhruvesh Patel](https://dhruveshp.com/) (Ph.D. Student - University of Massachusetts Amherst)
 
-Vijay Sadashivaiah (Ph.D. Student - RPI)
+[Vijay Sadashivaiah](https://www.linkedin.com/in/vijaysadashivaiah) (Ph.D. Student - RPI)
 
-Mattia Atzeni (Ph.D. Student - EPFL)
+[Mattia Atzeni](https://www.linkedin.com/in/mattiaatzeni) (Ph.D. Student - EPFL)

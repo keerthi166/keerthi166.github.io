@@ -13,7 +13,7 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-For recent publications, please visit my [Google Scholar][https://scholar.google.com/citations?user=-698GEMAAAAJ] page.
+For recent publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=-698GEMAAAAJ) page.
 
 <div class="publications">
 
