@@ -22,7 +22,6 @@ Taicheng Guo (Ph.D. Student - University of Notre Dame)
 
 Yujun Zhou (Ph.D. Student - University of Notre Dame)
 
-
 <h2 class="bibliography">2025 and before</h2>
 
 Yiyang Li (Ph.D. Student - University of Notre Dame)
